@@ -1,0 +1,47 @@
+/*tag styling*/
+
+body {
+    background-color: lightsteelblue;
+}
+h2 {
+    background-color:red;
+    color:white;
+}
+img {
+    height:300px;
+    width:400px;
+    border: 5px solid black;
+}
+td {
+    background-color:white;
+}
+li {
+    text-align:center;
+}
+table {
+    text-align:center;
+    border: 2px solid black;
+}
+/*class styling*/
+
+.NES {
+    background-color:lightslategrey;
+}
+.SNES {
+    background-color:mediumpurple;
+}
+.N64 {
+    background-color:green;
+}
+.GC {
+    background-color:blueviolet;
+}
+.Wii {
+    background-color:whitesmoke;
+}
+
+/*id styling */
+
+#graphics {
+    background-color:brown;
+}
